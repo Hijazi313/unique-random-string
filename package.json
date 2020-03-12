@@ -1,0 +1,31 @@
+{
+  "name": "unique-random-string",
+  "version": "0.01.0",
+  "description": "A module that returns unique alphanumeric strings",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hijazi313/unique-random-string.git"
+  },
+  "keywords": [
+    "unique",
+    "random",
+    "\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D",
+    "\u001b[C\u001b[C\u001b[C\u001b[D\u001b[D\u001b[D",
+    "\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C\u001b[Cr\u001b[C\u001b[Dandom",
+    "string",
+    "strings",
+    "unique-random-string",
+    "random-string",
+    "unique-string"
+  ],
+  "author": "Muhammad Hamza Asif",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Hijazi313/unique-random-string/issues"
+  },
+  "homepage": "https://github.com/Hijazi313/unique-random-string#readme"
+}

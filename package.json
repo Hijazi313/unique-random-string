@@ -13,14 +13,18 @@
   "keywords": [
     "unique",
     "random",
-    "\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D",
-    "\u001b[C\u001b[C\u001b[C\u001b[D\u001b[D\u001b[D",
-    "\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C\u001b[Cr\u001b[C\u001b[Dandom",
     "string",
+    "string-dandom",
+    "stringrandom",
+    "randomstring",
+    "random-string",
+    "unique-string",
+    "random-unique-string",
     "strings",
     "unique-random-string",
     "random-string",
-    "unique-string"
+    "unique-string",
+    "string-id"
   ],
   "author": "Muhammad Hamza Asif",
   "license": "MIT",

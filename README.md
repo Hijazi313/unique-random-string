@@ -13,8 +13,10 @@ const random = require('unique-random-string');
 # RandomChar
 This method takes an integer value as first argument which specifies the length of the returned string and an error first callback function  
 
-console.log(random.randomChar(10, (err, randomString)=>{
-    if(err){ return err}
+console.log(random(10, (err, randomString)=>{
+    if(err)
+        { return err }
+        
         else{
             return randomString
         }

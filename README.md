@@ -1,6 +1,8 @@
 # unique-random-string
 A module that returns unique alphanumeric strings.
 
+[![NPM Version][npm-image]][npm-url]
+
 ## HOW TO INSTALL 
 # npm install unique-random-string --save 
 

@@ -1,25 +1,22 @@
-# unique-random-string
-A module that returns unique alphanumeric strings.
+# unique-random
 
-## HOW TO INSTALL 
-# npm install unique-random-string --save 
+A module that returns unique numbers and alphanumeric strings.
 
-## HOW TO USE 
-const random = require('unique-random-string');
+## HOW TO INSTALL
+
+#### npm install unique-random-string --save
+
+## HOW TO USE
+
+const random = require('unique-random-values-generator');
 
 ```javascript
 ## METHOD
 
 # RandomChar
-This method takes an integer value as first argument which specifies the length of the returned string and an error first callback function  
+This method takes an  object as  options with keys of optional type and length argument which specifies the length of the returned number || string
 
-console.log(random(10, (err, randomString)=>{
-    if(err)
-        { return err }
-        
-        else{
-            return randomString
-        }
-    }))
+const uniqueValues = random({type:"mix", size:10})
 
 //Returns b3n5l6kopz
+```
